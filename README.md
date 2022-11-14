@@ -18,10 +18,7 @@ Still trying to find out the meaning of "Hello World"
 -------------------------------------------------------------
 Thats all from me folks, so for now...
 ```
-
 Vinny.isOut() == true;
-
-
 ```
 
 
