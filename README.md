@@ -9,6 +9,8 @@ Still trying to find out the meaning of "Hello World"
 * In my 3rd year of pursing my BS in Computer Science 👨‍🎓
 * Doing some pretty amazing undergraduate research exploring how AI/ML can cure cancer... more on this soon ♋
 
+-----------------------------------------------------
+
 * Where to find me:
   - <a href="https://www.linkedin.com/in/vincenzodaria/">LinkedIn</a>
   - <a href="mailto:vincenzo.daria01@gmail.com">E-Mail Me Here</a>
