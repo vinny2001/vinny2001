@@ -17,8 +17,11 @@ Still trying to find out the meaning of "Hello World"
   - <a href="https://forum.xda-developers.com/m/vin_001.7779995/">XDA Forums... where it all began for me</a>
 -------------------------------------------------------------
 Thats all from me folks, so for now...
+```
 
 Vinny.isOut() == true;
 
+
+```
 
 
