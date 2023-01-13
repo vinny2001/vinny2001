@@ -4,7 +4,7 @@ Still trying to find out the meaning of "Hello World"
 
 -----------------------------------------------------
 
-* Currently a data analyst & developer for Yale University 💻
+* Currently a Software Engineering Intern 💻
 * Software Engineering & Machine Learning Junkie 🤖
 * In my 3rd year of pursuing my BS in Computer Science 👨‍🎓
 * Doing some pretty amazing undergraduate research exploring how AI/ML can cure cancer... more on this soon ♋
