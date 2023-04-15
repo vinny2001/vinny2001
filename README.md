@@ -7,7 +7,7 @@ Still trying to find out the meaning of "Hello World"
 * Currently a Software Engineering Intern 💻
 * Software Engineering & Machine Learning Junkie 🤖
 * In my 3rd year of pursuing my BS in Computer Science 👨‍🎓
-* Doing some pretty amazing undergraduate research exploring how AI/ML can cure cancer... more on this soon ♋
+* Soon to be published for my current research: "Neural Networks Implemented through Bio-Nanorobots for the Early Detection and Elimination of Cancer Cells in the Human Body" ♋
 
 -----------------------------------------------------
 
