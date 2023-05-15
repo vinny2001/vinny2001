@@ -7,7 +7,7 @@ Still trying to find out the meaning of "Hello World"
 * Currently a Software Engineering Intern 💻
 * Software Engineering & Machine Learning Junkie 🤖
 * In my 4th year of pursuing my BS in Computer Science 👨‍🎓
-* Soon to be published for my current research: "Neural Networks Implemented through Bio-Nanorobots for the Early Detection and Elimination of Cancer Cells in the Human Body" ♋
+* My recent research publication: "Neural Networks Implemented through Bio-Nanorobots for the Early Detection and Elimination of Cancer Cells in the Human Body" ♋
 
 -----------------------------------------------------
 
