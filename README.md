@@ -15,6 +15,7 @@ Still trying to find out the meaning of "Hello World"
   - <a href="https://www.linkedin.com/in/vincenzodaria/">LinkedIn</a>
   - <a href="mailto:vincenzo.daria01@gmail.com">E-Mail Me Here</a>
   - <a href="https://forum.xda-developers.com/m/vin_001.7779995/">XDA Forums... where it all began for me</a>
+  - <a href="https://vincenzodaria.com/">My Website</a>
 -------------------------------------------------------------
 Thats all from me folks, so for now...
 ```
