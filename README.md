@@ -5,7 +5,7 @@ Still trying to find out the meaning of "Hello World"
 -----------------------------------------------------
 
 * EDP Software Engineer @ Traveler's Insurance 💻
-* Software Engineering & AI Junkie 🤖
+* Passionate about Full-stack Engineering and Machine Learning 🤖
 * Publication: "Neural Networks Implemented through Bio-Nanorobots for the Early Detection and Elimination of Cancer Cells in the Human Body" ♋
 
 -----------------------------------------------------
