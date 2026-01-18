@@ -5,7 +5,7 @@ Still trying to find out the meaning of "Hello World"
 -----------------------------------------------------
 
 * Full-Stack Software Engineer @ Travelers 💻
-* Passionate about Full-stack Engineering, Mobile App & Kernal-Level Development, and Agentic AI 🤖
+* Passionate about Full-Stack Engineering, Mobile App & Kernel-Level Development, and Agentic AI 🤖
 * Publication: "Neural Networks Implemented through Bio-Nanorobots for the Early Detection and Elimination of Cancer Cells in the Human Body" ♋
 
 -----------------------------------------------------
